@@ -44,7 +44,7 @@ Merhabalar, bu projede Java dilinde Maven Page Object Model yapısı kullanarak 
 
 🟢 Sayfanın en aşağı kısmına doğru iki kere scrol edilir.
 
-🟢 Ürünlerden rasgele bir ürün seçilir.
+🟢 Ürünlerden rastgele bir ürün seçilir.
 
 🟢 Ürün detay sayfası açıldığı kontrol edilir.
 
@@ -58,7 +58,7 @@ Merhabalar, bu projede Java dilinde Maven Page Object Model yapısı kullanarak 
 
 🟢 Geri butonuna 2 kere tıklanır.
 
-🟢 Rasgele bir ürün seçilir.
+🟢 Rastgele bir ürün seçilir.
 
 🟢 Seçilen ürün sepete eklenir.
 
