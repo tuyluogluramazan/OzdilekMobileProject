@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Mağazadan Alışveriş texti",
+    "value": "com.ozdilek.ozdilekteyim:id/textView",
+    "type": "id"
+  },
+  {
+    "key": "Alışverişe başla butonu",
+    "value": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "type": "id"
+  },
+  {
+    "key": "Mağaza Texti",
+    "value": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "type": "id"
+  }
+]

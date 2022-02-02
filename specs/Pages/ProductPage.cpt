@@ -1,0 +1,11 @@
+Created by Ramazan on 1.02.2022
+This is a concept file with following syntax for each concept.
+# Ürün detay sayfasında <text> olduğunu kontrol et
+* xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayAddFav']/android.widget.TextView[@text=\"Listeme Ekle\"]" li elementi bul ve <text> alanını kontrol et
+
+# Ürünü favorilere ekle
+* xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayAddFav']/android.widget.TextView[@text=\"Listeme Ekle\"]" li elemente tıkla
+
+# Ürünü sepete ekle
+* Elementler "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLaySizeIn']" arasından rastgele bir tanesini seç ve tıkla
+* id "com.ozdilek.ozdilekteyim:id/cardAddToCart" li elemente tıkla

@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Listeme ekle texti",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayAddFav']/android.widget.TextView[@text=\\\"Listeme Ekle\\\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "Listeme ekle başla butonu",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayAddFav']/android.widget.TextView[@text=\\\"Listeme Ekle\\",
+    "type": "xpath"
+  },
+  {
+    "key": "Ürünler",
+    "value": "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLaySizeIn']",
+    "type": "id"
+  }
+]

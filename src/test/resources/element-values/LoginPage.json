@@ -1,0 +1,17 @@
+[
+  {
+    "key": "Giriş yap texti",
+    "value": "com.ozdilek.ozdilekteyim:id/btnLogin",
+    "type": "id"
+  },
+  {
+    "key": "Eposta Alanı",
+    "value": "com.ozdilek.ozdilekteyim:id/etEposta",
+    "type": "id"
+  },
+  {
+    "key": "Password alanı",
+    "value": "com.ozdilek.ozdilekteyim:id/etPassword",
+    "type": "id"
+  }
+]

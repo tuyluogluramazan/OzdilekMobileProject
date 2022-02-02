@@ -1,0 +1,14 @@
+Created by Ramazan on 1.02.2022
+This is a concept file with following syntax for each concept.
+# Login ekranında <text> olduğunu kontrol et
+* id "com.ozdilek.ozdilekteyim:id/btnLogin" li elementi bul ve <text> alanını kontrol et
+# Login ekranına geç
+* id "com.ozdilek.ozdilekteyim:id/nav_account" li elemente tıkla
+# Kullanıcı adı alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etEposta" li ementi bul ve <text> değerini yaz
+# Password alanına <text> değerini yaz
+* id "com.ozdilek.ozdilekteyim:id/etPassword" li ementi bul ve <text> değerini yaz
+# Giriş yap butonuna bas
+*id "com.ozdilek.ozdilekteyim:id/btnLogin" li elemente tıkla
+# Geri butonuna tıkla
+* id "com.ozdilek.ozdilekteyim:id/ivBack" li elemente tıkla
